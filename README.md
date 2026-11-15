@@ -1,2 +1,2 @@
 # Poly_Gen-GRP7
-Repo For Infotact project. AUthor - Sunny Sejwar
+Repo For Infotact project. Author - Sunny Sejwar
