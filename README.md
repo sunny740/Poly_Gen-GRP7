@@ -6,6 +6,7 @@ Author: Sunny Sejwar
 ## Project at a Glance 
 Text prompt
 ||
+
 [1] Text -> Image  (Stable Diffusion / SDXL-Turbo (diffusers).
 
 [2] Background removal     (rembg)
