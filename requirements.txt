@@ -1,0 +1,13 @@
+torch
+torchvision
+diffusers>=0.27.0
+transformers
+accelerate
+trimesh
+open3d
+scipy
+networkx
+pillow
+numpy
+fastapi
+uvicorn
