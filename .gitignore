@@ -1,0 +1,7 @@
+outputs/
+third_party/
+*.ckpt
+*.safetensors
+*.pth
+.env
+node_modules/
