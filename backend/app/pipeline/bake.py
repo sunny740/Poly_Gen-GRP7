@@ -27,7 +27,7 @@ inside = (w >= -1e-6).all(axis=1)
 if inside.any():
   xy_list.append(pts[inside].astype(int))
 pos_list.append(w[inside] @ verts[f])         
-each pixel
+# 3D position of each pixel
 xy = np.clip(np.concatenate(xy_list), 0, size - 1)
 pos = np.concatenate(pos_list)
 _, nearest = tree.query(pos)
